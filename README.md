@@ -1,11 +1,3 @@
-<div align="center">
-  <img src="https://count.getloli.com/@:gerync?theme=booru-helltaker&padding=8&scale=1&align=top&pixelated=0&darkmode=1"  />
-</div>
-
-###
-
-<br clear="both">
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
@@ -111,10 +103,10 @@
 </div>
 
 ###
-
 <div align="center">
-  <img src="https://count.getloli.com/@:gerync?theme=booru-helltaker&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:gerync?theme=booru-helltaker&padding=8&scale=1&align=top&pixelated=0&darkmode=1"  />
 </div>
+
 
 ###
 
